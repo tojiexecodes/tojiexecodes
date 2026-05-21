@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Ismeet Kachhap 👋
-🚀 Software Engineer
+I'm Ismeet Kachhap Software Engineer
 
 I love building fast, modern, and scalable web applications. From frontend experiences to backend systems and cloud integrations — I enjoy working across the entire stack.
 
